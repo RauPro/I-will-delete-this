@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Proyects/project/headers/Array.h
+
+D:/Proyects/project/headers/Array2D.h
+
+D:/Proyects/project/headers/DoubleLinkedList.h
+
+D:/Proyects/project/headers/Structure.h
+
+D:/Proyects/project/main.cpp
+iostream
+-
+headers/Structure.h
+D:/Proyects/project/headers/Structure.h
+headers/Array.h
+D:/Proyects/project/headers/Array.h
+headers/DoubleLinkedList.h
+D:/Proyects/project/headers/DoubleLinkedList.h
+headers/Array2D.h
+D:/Proyects/project/headers/Array2D.h
+
